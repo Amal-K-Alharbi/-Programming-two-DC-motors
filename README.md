@@ -41,8 +41,5 @@ Black = Ground (GND)
 
 Yellow/Green = Control signals between Arduino, L293D, and LCD
 
-![Schematic](_Programming%two%DC%motors.pdf)
-
 The purpose of this setup is to control the rotation, direction, and speed of two DC motors using Arduino while displaying relevant information on the LCD.
 
-[The code](_programming_two_dc_motors1.ino)
